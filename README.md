@@ -5,6 +5,8 @@ A repo created for the work of Institute Wellness Group, IIT Kharagpur
 
 ![cards](https://user-images.githubusercontent.com/56491104/91311491-c86caa80-e7d0-11ea-819b-427f59299c3f.png)
 
+![resource](https://user-images.githubusercontent.com/56491104/91314841-9d845580-e7d4-11ea-8a07-07a3958ae83e.jpeg)
+
 
 
 
@@ -51,9 +53,23 @@ A repo created for the work of Institute Wellness Group, IIT Kharagpur
                        
          4. EVENTS : THis should just contain the events in cards similar made by koss website, a very clean and easy design
          
-         5. REsources : This should be a major part of the website :
+         5. Resources : This should be a major part of the website :
          
-                        This page will look something as the one image I have shown above 
+                        This page will look something as the one image I have shown above drawn by my hand
+                        
+                        In the image I have not added all the things that wecan include in the resources part but just a rough part of how should it look like
+                        
+                    
+         6. Contact Us :
+                        Again something similar to  koss website but here we can add a contact form instead of just giving our mail id.
+                        
+                        
+                   
+         7. Freshers Section :    This should be like this http://bsw.iitd.ac.in/ with more interesting  presenatation maybe 
+        
+         8. Footer : A simple footer like in any ordinary website
+         
+                    
                         
                         
          
