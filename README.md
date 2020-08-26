@@ -1,10 +1,14 @@
 # shrinish-iwg-sm
 A repo created for the work of Institute Wellness Group, IIT Kharagpur
 
+![navbar](https://user-images.githubusercontent.com/56491104/91307575-c48a5980-e7cb-11ea-877e-b3e3873956f5.png)
+
+![cards](https://user-images.githubusercontent.com/56491104/91311491-c86caa80-e7d0-11ea-819b-427f59299c3f.png)
+
+
+
 
          1. NAVBAR : The navbar design should be  something like this : 
-         
-         ![navbar](https://user-images.githubusercontent.com/56491104/91307575-c48a5980-e7cb-11ea-877e-b3e3873956f5.png)
          
          The link for the website from which it is suggested is : https://hellonesh.io/
          Just visit the websit for hover effects and overall UX.
@@ -37,10 +41,34 @@ A repo created for the work of Institute Wellness Group, IIT Kharagpur
                
          3. ABOUT US : We can again go as koss have designed the about us section
          
-                       But a creative way of making student cards would be like :  
+                       But a creative way of making student cards would be like the one image shown above
+                      
+                       The reference to this is here : https://www.instagram.com/p/CDjUrs1gHWM/?utm_source=ig_web_button_share_sheet 
                        
                        
-                       The reference to this is here : https://www.instagram.com/p/CDjUrs1gHWM/?utm_source=ig_web_button_share_sheet
+                       
+                       
+         4. EVENTS : THis should just contain the events in cards similar made by koss website, a very clean and easy design
+         
+         5. REsources : This should be a major part of the website :
+         
+                        This page will look something as the one image I have shown above 
+                        
+                        
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      
          
          
          
