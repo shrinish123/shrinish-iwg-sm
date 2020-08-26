@@ -8,6 +8,7 @@ A repo created for the work of Institute Wellness Group, IIT Kharagpur
 
 
 
+
          1. NAVBAR : The navbar design should be  something like this : 
          
          The link for the website from which it is suggested is : https://hellonesh.io/
